@@ -7,5 +7,5 @@
 - 💞️ I’m looking to collaborate como programador
 - 📫 How to reach me: marcos.ferranti@escola.pr.gohv.br
 
-![]()
-https://media.tenor.com/_OVmC8suUqAAAAAd/dino-traktor.gif
+![](https://media.tenor.com/_OVmC8suUqAAAAAd/dino-traktor.gif)
+
